@@ -3,5 +3,5 @@ pandas
 numpy
 matplotlib
 scikit-learn
-keras
-tf-keras
+tf-keras==2.15.0
+numpy<2.0
